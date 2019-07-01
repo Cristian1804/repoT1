@@ -1,0 +1,24 @@
+{
+  "name": "repoT1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "numeroPrimo.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Cristian1804/repoT1.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Cristian1804/repoT1/issues"
+  },
+  "homepage": "https://github.com/Cristian1804/repoT1#readme",
+  "dependencies": {
+    "is-prime-number": "^2.1.0",
+    "readline-sync": "^1.4.9"
+  }
+}
