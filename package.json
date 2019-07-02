@@ -4,6 +4,7 @@
   "description": "",
   "main": "numeroPrimo.js",
   "scripts": {
+    "primo":"node numeroPrimo.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
